@@ -8,7 +8,8 @@
   font-size: 40px;
 }
 body {
-  background-image: linear-gradient(black, darkgrey, grey);
+  background-image: url("back.webp");
+  /* background-image: linear-gradient(black, darkgrey, grey); */
   background-size: 100% 100%;
   color: white;
   font-family: "Times New Roman", Times, serif;
